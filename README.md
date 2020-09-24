@@ -26,23 +26,28 @@ Mean for Overall Happiness Scores: 7.12376
 
 ## Freedom to Make Life Choices
 Mean for Freeedom to Make Life Choices Scores: 0.5210000000000001
+
 ![freedom_to_make_choices.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/freedom_to_make_choices.png)
 
 ## Perceptions of Corruption
 Mean for Perceptions of Corruption Scores: 0.23535999999999993
+
 ![perception_of_corruption.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/perception_of_corruption.png)
 (Higher number means less perception of corruption)
 
 ## Generosity
 Mean for Generosity Scores: 0.24516000000000004
+
 ![generosity.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/generosity_score.png)
 
 ## Healthy Life Expectancy
 Mean for Healthy Life Expectancy Score 0.9849199999999999
+
 ![life_expectancy.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/life_expectancy.png)
 
 ## GDP_per_Capita
 Mean for GDP per Capita: 1.35956
+
 ![gdp_per_capita](https://github.com/Oliviad27/DATA610_hw1-/blob/master/gdp_per_capita.png)
 
 ## Findings
