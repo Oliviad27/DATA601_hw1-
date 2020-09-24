@@ -4,4 +4,4 @@ For this project I selected the 2019 World Happiness Report from Kaggle. This is
 ## Goal
 My goal was to demonstrate how the determining factors affect the overall scores by visually displaying the categories using bar graphs. 
 ## Navigation
-[Notebook]
+[Notebook]https://github.com/Oliviad27/DATA610_hw1-/blob/master/DATA601_hw1.ipynb
