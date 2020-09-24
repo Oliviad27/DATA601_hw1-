@@ -21,7 +21,8 @@ My goal was to demonstrate how the determining factors affect the overall scores
 
 ## Overall Happiness
 Mean for Overall Happiness Scores: 7.12376
-![overall_happiness_score.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/overall_happiness_score.png)
+
+![overall_happiness_score.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/overall_happiness_score.png) 
 
 ## Freedom to Make Life Choices
 Mean for Freeedom to Make Life Choices Scores: 0.5210000000000001
