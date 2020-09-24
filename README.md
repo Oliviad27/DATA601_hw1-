@@ -1,8 +1,11 @@
 # DATA610_hw1-
+
 ## Overview  
 For this project I selected the 2019 World Happiness Report from Kaggle. This is a fairly large datatset so I only imported the first 25 rankings by country, in order to take a look at what makes these top the Happiness study. Therefore, the calculations for outliers, the mean, and the bar graphs only include these countries. 
+
 ## Project Notebook
 [Notebook](https://github.com/Oliviad27/DATA610_hw1-/blob/master/DATA601_hw1.ipynb)
+
 ## Navigation
 [Overall Happiness](https://github.com/Oliviad27/DATA610_hw1-#overall-happiness)-
 [Freedom to Make Life Choices](https://github.com/Oliviad27/DATA610_hw1-#freedom-to-make-life-choices)-
@@ -10,7 +13,9 @@ For this project I selected the 2019 World Happiness Report from Kaggle. This is
 [Generosity](https://github.com/Oliviad27/DATA610_hw1-#generosity)-
 [Healthy Life Expectancy](https://github.com/Oliviad27/DATA610_hw1-#healthy-life-expectancy)-
 [GDP_per_Capita](https://github.com/Oliviad27/DATA610_hw1-#gdp_per_capita)-
-[Findings](https://github.com/Oliviad27/DATA610_hw1-#findings)
+[Findings](https://github.com/Oliviad27/DATA610_hw1-#findings)-
+[Conclusion](https://github.com/Oliviad27/DATA610_hw1-#conclusion)
+
 ## Goal
 My goal was to demonstrate how the determining factors affect the overall scores by visually displaying the categories using bar graphs. 
 
@@ -38,6 +43,7 @@ Mean for Healthy Life Expectancy Score 0.9849199999999999
 ## GDP_per_Capita
 Mean for GDP per Capita: 1.35956
 ![gdp_per_capita](https://github.com/Oliviad27/DATA610_hw1-/blob/master/gdp_per_capita.png)
+
 ## Findings
 Overall, in the top 25 countries there were very few categories that had outliers. Healthy Life Expectancy, Social Support, and GDP per Capita were the only evaluations that contained outliers. Finland, which ranked the highest for overall happiness had consistently high scores, except for in Generosity. The scores for GDP per Capita, Healthy Life Expectancy, and Freeedom to Make Life Choices were all fairly consistent, while the categories of Perceptions of Corruption and Generosity varied widely. 
 
