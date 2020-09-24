@@ -2,7 +2,14 @@
 ## Overview  
 For this project I selected the 2019 World Happiness Report from Kaggle. This is a fairly large datatset so I only imported the first 25 rankings by country, in order to take a look at what makes these top the Happiness study. Therefore, the calculations for outliers, the mean, and the bar graphs only include these countries. 
 ## Navigation
-[Notebook](https://github.com/Oliviad27/DATA610_hw1-/blob/master/DATA601_hw1.ipynb)
+[Notebook](https://github.com/Oliviad27/DATA610_hw1-/blob/master/DATA601_hw1.ipynb)-
+[Overall Happiness](https://github.com/Oliviad27/DATA610_hw1-#overall-happiness)-
+[Freedom to Make Life Choices](https://github.com/Oliviad27/DATA610_hw1-#freedom-to-make-life-choices)-
+[Perceptions of Corruption](https://github.com/Oliviad27/DATA610_hw1-#perceptions-of-corruption)-
+[Generosity](https://github.com/Oliviad27/DATA610_hw1-#generosity)-
+[Healthy Life Expectancy](https://github.com/Oliviad27/DATA610_hw1-#healthy-life-expectancy)-
+[GDP_per_Capita](https://github.com/Oliviad27/DATA610_hw1-#gdp_per_capita)-
+[Findings](https://github.com/Oliviad27/DATA610_hw1-#findings)
 ## Goal
 My goal was to demonstrate how the determining factors affect the overall scores by visually displaying the categories using bar graphs. 
 
