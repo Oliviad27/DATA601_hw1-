@@ -40,3 +40,6 @@ Mean for GDP per Capita: 1.35956
 ![gdp_per_capita](https://github.com/Oliviad27/DATA610_hw1-/blob/master/gdp_per_capita.png)
 ## Findings
 Overall, in the top 25 countries there were very few categories that had outliers. Healthy Life Expectancy, Social Support, and GDP per Capita were the only evaluations that contained outliers. Finland, which ranked the highest for overall happiness had consistently high scores, except for in Generosity. The scores for GDP per Capita, Healthy Life Expectancy, and Freeedom to Make Life Choices were all fairly consistent, while the categories of Perceptions of Corruption and Generosity varied widely. 
+
+## Conclusion
+In order to be in the top 25 countries for the happiness score Healthy Life Expectancy, Social Support, and GDP per Capita are all important categories to get a high score in. While the categories of Perceptions of Corruption and Generosity can be scored poorly in well still kepping the Overall Happiness Score high.
