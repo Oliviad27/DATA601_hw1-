@@ -24,8 +24,8 @@ Mean for Freeedom to Make Life Choices Scores: 0.5210000000000001
 
 ## Perceptions of Corruption
 Mean for Perceptions of Corruption Scores: 0.23535999999999993
-(Higher number means less perception of corruption)
 ![perception_of_corruption.png](https://github.com/Oliviad27/DATA610_hw1-/blob/master/perception_of_corruption.png)
+(Higher number means less perception of corruption)
 
 ## Generosity
 Mean for Generosity Scores: 0.24516000000000004
@@ -39,4 +39,4 @@ Mean for Healthy Life Expectancy Score 0.9849199999999999
 Mean for GDP per Capita: 1.35956
 ![gdp_per_capita](https://github.com/Oliviad27/DATA610_hw1-/blob/master/gdp_per_capita.png)
 ## Findings
-Overall, in the top 25 countries there were very few categories that had outliers. Healthy Life Expectancy, Social Support, and GDP per Capita were the only evaluations that contained outliers. 
+Overall, in the top 25 countries there were very few categories that had outliers. Healthy Life Expectancy, Social Support, and GDP per Capita were the only evaluations that contained outliers. Finland, which ranked the highest for overall happiness had consistently high scores, except for in Generosity. The scores for GDP per Capita, Healthy Life Expectancy, and Freeedom to Make Life Choices were all fairly consistent, while the categories of Perceptions of Corruption and Generosity varied widely. 
